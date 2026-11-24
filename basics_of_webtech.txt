@@ -1,0 +1,83 @@
+MEAN STACK 
+    >>M: MongoDB (DataBase)
+    >>E:Express JS(Backend)
+    >>A:Angular(Frontend)
+    >>N:Node JS(Backend)
+
+THREE PILARS 
+    >>HTML (Hypertext Markup Language)
+    >>CSS (Cascading Style Sheets )
+    >>JS (Java Script)
+
+DIFFERENT KINDS OF STACKS:
+    >>MEAN
+    >>MERN >> R:REACT 
+    >> JAVA FULL STACK 
+WEB DEV 
+    >>Building and devlopment team
+    >> testing team (Manual and Automated )
+    >> Hosting Team (DevOps)
+    >> Maintaince Team /Support Team
+SDLC(Software Development Life Cycle)
+    >>Waterfall model
+    >>Aglie model
+    >>Spiral model
+    >> Iterative model
+    >>Increment model
+    >>V shaped model
+    >>RAD (Rapid Application Development) model
+
+URL(Uniform Resource Locator)
+    http://www.google.com/
+    http://education.rohanAcademy.edu/FullStack
+Parts of URL
+    >>https (hyper text transfer protocol secure ):protocol
+    >>eduction:Subdomain
+    >>rohanAcademy:Server/Domain Name
+    >>.edu:TLD(Top Level Domain)    
+    >>FullStack:Location
+PROTOCOL:
+    >>Set of Rules/Instructions
+    http  : hyper text transfer protocol
+    https : hyper text transfer protocol secure
+    tcp   : transmission control protocol (Persistent User and Serever Connection)
+    udp   : User datagram protocol (User and Server Non -Persistent connection)
+    smtp  :Simple Mail Transfer Protocol 
+    ftp   :File Transfer Protocol
+    ip  : Internet Protocol (ipV4 and ipV6)
+        >> Client/Webpage ---------(UName &Upass)------->Instagram Server
+        to secure Applications
+        >>SSL(Secure Socket Layer) Certification
+
+Server/Domain Name:
+    >> Unique Identification        
+    >>Eg. Google,Amazon
+Sub-Domain Name:
+    >>gMeet
+    >>gDrive
+    >>gPhtots
+    >>Amazon Shopping 
+    >>AWS
+
+TLD:
+    >>Amazon.in (India)
+    >>Amazon.com(commercial)
+    and others
+
+OFFLINE EDITORS
+    >>Notepad    
+    >>Notepad++
+    >>Sublime
+    >>Open Brackets
+    >>VS Code
+
+ONLINE EDITORS 
+>>codespace
+>>CodeSandbox(Github)
+    
+
+
+
+
+
+

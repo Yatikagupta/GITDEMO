@@ -1,0 +1,22 @@
+Git >> Version Control
+
+>> It is distributed (on cloud)
+
+    >>colabration
+    >>Tracking changes
+    >>Recovery
+
+        Github 
+        Bitbucket
+        GitLabs
+        GitPod
+>>for first time you need to configure github in our system
+        >>git config --global user.name "Yatikagupta" 
+>>for first time you need to configure github in our system
+        >>git config --global user.email "yatikagupta19@gmail.com"        
+>>Color suggestions on github
+        >> git config --global color.ui auto
+
+>>MANDATORY COMMANDS:
+    >>git init (Initilise github)
+    >>git remote add origin https://github.com/Yatikagupta/GITDEMO.git        
