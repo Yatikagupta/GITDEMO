@@ -19,4 +19,29 @@ Git >> Version Control
 
 >>MANDATORY COMMANDS:
     >>git init (Initilise github)
-    >>git remote add origin https://github.com/Yatikagupta/GITDEMO.git        
+    >>git remote add origin https://github.com/Yatikagupta/GITDEMO.git (Connect local editor with github)
+
+
+
+>>PULL REQUEST COMMANDS
+    >>git pull origin main
+>>git status    
+>> ADD files
+    >> git add basics_of_webtech.txt
+    >>git add 2_Git&Github.txt
+          OR 
+>>SIMPLY ADD ALL FILES USING :
+    >>git add.
+>>TO CHECK RUN :
+    >>git status
+    >> git commit -m "commited changes of addding files."
+    >>git push
+    >>git push --set-upstream origin master
+>> if needed to unstag:
+  (use "git restore --staged <file>..." to unstage)            
+>>create a new branch 
+>>git checkout -b "newbranchname"
+>>Switch the branch 
+>>git checkout "Branch name to open"
+>>CLONE AN APPLICATION
+>> git clone "Repo url"
